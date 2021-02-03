@@ -148,18 +148,18 @@ A twist is ineffectual if:
 
 * Story beats
 
-** Kevin is kidnapped
+** 01 Kevin is kidnapped
 (pov: kevin)
 
-** Politican asks for help from the Crystal Path
+** 02 Politican asks for help from the Crystal Path
 (pov: val)
 
-** Val is dispatched
+** 03 Val is dispatched
 (pov: val)
 
 Jay will be used for info/lore dumps. How about a local sheriff that is ill equiped to handle these types of bad guys.
 
-** "Lay of the land"
+** 04 "Lay of the land"
 (pov: val)
 
 Val meets Jay.
@@ -167,14 +167,14 @@ Trys to get information on the [Black Beard Gang].
 Finds out where the compound is.
 How heavily fortified it is.
 
-** Val takes Jay out to survey the compound.
+** 05 Val takes Jay out to survey the compound.
 (pov: val)
 
 It is realized here that they are outmanned and outgunned.
 
-** Val prepares a "spike"
+** 06 Val prepares a "spike"
 (pov: val)
-** Kevin manages to escape his bonds and overhears a critical conversation
+** 07 Kevin manages to escape his bonds and overhears a critical conversation
 (pov: kevin)
 
 He isn't able to escape the compound, but he is able to move around a little.
@@ -182,21 +182,21 @@ He isn't able to escape the compound, but he is able to move around a little.
 Here is where the plot twist needs to be.
 He drops something and is discovered.
 
-** Val infultrates the bad guys lair and realizes that he is in over his head. He gets into a fire fight and fires off the [emergency eject], dissapeering at that last possible second.
+** 08 Val infultrates the bad guys lair and realizes that he is in over his head. He gets into a fire fight and fires off the [emergency eject], dissapeering at that last possible second.
 (pov: val)
 
 Val becomes aware of the plot twist.
 Something needs to cause her to say "oh shit!" and the pull the eject lever.
 
-** Val gears up
+** 09 Val gears up
 (pov: val)
 
-** Val comes back into the lair with the magical equivelant of tank armor, he retrieves the son and kills the bad guy
+** 10 Val comes back into the lair with the magical equivelant of tank armor, he retrieves the son and kills the bad guy
 (pov: val)
 
 Kevin tells Val what he heard from Nigel. Part of Nigel's plan is revealed here.
 
-** Nigel escapes. He uses the same method that Val uses to transport.
+** 11 Nigel escapes. He uses the same method that Val uses to transport.
 (pov: val)
 
 This hints at the possibility that [Crime boss] was somehow a former member of the Order of the Crystallum Via. The question should be left open. All Val finds is a few crystal shards of a left over from an "emergency ejection".
