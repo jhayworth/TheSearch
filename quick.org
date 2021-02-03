@@ -1,0 +1,206 @@
+* Working Title: "The Search"
+
+* Story Parameters
+
+Story Type: Fantasy Western
+Sub-Story Type: Marshal story
+Storytelling method: 1st person - Multi-viewpoint
+Setting: Joshua's fiction universe 01
+
+"Officer" - Rank
+Agent
+
+Atom
+Unit Cell
+Lattice
+
+Quartz Crystal
+
+Unit Cell
+  Corporal
+  2 Librians
+  2 Agents
+
+Order of the Via Crystallum (Crystal Path or just "The Path")
+
+Valentina
+
+Synopsis: Val is tasked with retrieving [the son] who was kidnapped. [Person] is the son of a [Politician of some sort]. [The politician] has asked the [Finders] to retrieve [The son]. [The politician] is being blackmailed to do something.
+
+* Characters
+
+** Val
+  Protagonist
+  POV character
+  Jason Bourne/The Mandalorian... but with magic. Wizard. Hyper competent.
+
+** Kevin Wells (The son - 12 years old)
+  POV character
+
+** Timothy Wells (The politician - 47 years old)
+  
+** "librarian"
+  "Yes, Agent"
+
+  Appears whenever called.
+
+** Jay Butcher (Local sheriff)
+  
+  Has 6 year old daughter named Rosie Butcher
+  Has a wife named Karen
+
+  Likes guns
+  Likes dogs
+  Referrs to his car as a lady (Rochelle)
+
+** David Cobb (Sheriff Deputy)
+  
+  Always eating Beef Jerky
+
+** Carol Grace (Dispatcher)
+** Nigel Cage (Crime Boss)
+  POV character
+  Wizard
+
+  20 gun guys
+  2 wizards
+
+  black beard gang
+  whyskyberg
+
+
+* Mechanics
+Gate network - Conduits (Connections? Paths? Conduits? Conveyances?)
+
+** Conduit Network
+I really want to showcase the [Finders] here. Imagine the gate network from Stargate: SG-1 or Stargate: Atlantis. Now pull that gate network into a fantasy setting. The gates can go anywhere. Across the universe and across the planes. They can connect alternate universes and timelines. Let's call them "conduits". They can be created dynamically. A [Finder] has the ability to create them (though it takes a little time [1 hour ritual]). The ritual to create a conduit involves a special crystal that links the [Finder] to [Finder core/distribution center]. Through their connection to the [Finder core], they can go anywhere. He can hop over to wherever he needs to go. He can mark a spot with a [crystal spike]. He can travel back to where he put the spike. It acts as an anchor to the network.
+
+** Emergency eject
+If Val is in over her head, she can break a special type of crystal that has been created beforehand.
+
+** Wizard UI
+Val has another crystal that allows him to tap into [the knowledge]. [The knowledge] is a magical encoded database of sorts. It stores all his spells and allows him to do spell research. But it also stores memories. Memories belonging to [Finder] as well as others. He has a spell that allows him to copy memories and add them to the database. He can "scrub" through them as if he was remembering the memories himself. This makes it really easy to train new [Finders]. When using [the knowledge] it appears that his body is "sleeping" in a sitting position. He can't respond to outside stimuli.
+
+* Western Subgenres (for inspiration)
+
+** Union Pacific story.
+The plot concerns construction of a railroad, a telegraph line, or some other type of modern technology or transportation. Wagon train stories fall into this category.
+
+** Ranch story.
+
+The plot concerns threats to the ranch from rustlers or large landowners attempting to force out the proper owners.
+
+** Empire story.
+
+The plot involves building a ranch empire or an oil empire from scratch, a classic rags-to-riches plot.
+** Revenge story.
+
+The plot often involves an elaborate chase and pursuit by a wronged individual, but it may also include elements of the classic mystery story.
+
+** Cavalry and Indian story.
+
+The plot revolves around "taming" the wilderness for white settlers.
+
+** Outlaw story.
+
+The outlaw gangs dominate the action.
+
+** Marshal story.
+
+The lawman and his challenges drive the plot.
+
+
+* Magical Weapon Ideas
+
+The "whiskey staff".
+Infinite Magic Missiles.
+Unbreakable shield.
+Iron Man Suit, but magic.
+
+* General Storytelling notes
+
+plot twists
+story element that redirects the plot from its former trajectory
+
+retroactive vs. trajectory
+
+
+suspense (lookup hitchcock and his views on suspense)
+
+
+
+examples:
+(retroactive) planet of the apes - it was earth all along
+(retroactive) 6th sense - He was dead all along
+(trajectory) Terminator 2 - Arnold pulls out his shotgun and tells John to get down to shoot the T-1000
+(trajectory) Spiderman: Homecoming - The vulture is his girlfriend's Dad
+
+A twist is ineffectual if:
+  It contradicts canon or generally makes no sense when considered
+  It isn't as clever as it thinks it is
+  It's more boring than the non-twist option
+  It has no meaningful impact on the plot
+
+* Plot twist ideas
+
+** Getting the politician involved was just a feint. The bad guys have bigger plans.
+** Maybe the Timothy is in league with Nigel
+
+* Story beats
+
+** Kevin is kidnapped
+(pov: kevin)
+
+** Politican asks for help from the Crystal Path
+(pov: val)
+
+** Val is dispatched
+(pov: val)
+
+Jay will be used for info/lore dumps. How about a local sheriff that is ill equiped to handle these types of bad guys.
+
+** "Lay of the land"
+(pov: val)
+
+Val meets Jay.
+Trys to get information on the [Black Beard Gang].
+Finds out where the compound is.
+How heavily fortified it is.
+
+** Val takes Jay out to survey the compound.
+(pov: val)
+
+It is realized here that they are outmanned and outgunned.
+
+** Val prepares a "spike"
+(pov: val)
+** Kevin manages to escape his bonds and overhears a critical conversation
+(pov: kevin)
+
+He isn't able to escape the compound, but he is able to move around a little.
+(Forshadowing) Kevin hears something that he shouldn't hear.
+Here is where the plot twist needs to be.
+He drops something and is discovered.
+
+** Val infultrates the bad guys lair and realizes that he is in over his head. He gets into a fire fight and fires off the [emergency eject], dissapeering at that last possible second.
+(pov: val)
+
+Val becomes aware of the plot twist.
+Something needs to cause her to say "oh shit!" and the pull the eject lever.
+
+** Val gears up
+(pov: val)
+
+** Val comes back into the lair with the magical equivelant of tank armor, he retrieves the son and kills the bad guy
+(pov: val)
+
+Kevin tells Val what he heard from Nigel. Part of Nigel's plan is revealed here.
+
+** Nigel escapes. He uses the same method that Val uses to transport.
+(pov: val)
+
+This hints at the possibility that [Crime boss] was somehow a former member of the Order of the Crystallum Via. The question should be left open. All Val finds is a few crystal shards of a left over from an "emergency ejection".
+
+
+
+
