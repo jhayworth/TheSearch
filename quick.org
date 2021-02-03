@@ -2,10 +2,14 @@
 
 * Story Parameters
 
-Story Type: Fantasy Western
-Sub-Story Type: Marshal story
-Storytelling method: 1st person - Multi-viewpoint
-Setting: Joshua's fiction universe 01
+** Story Type: Fantasy Western
+** Sub-Story Type: Marshal story
+** Storytelling method: 1st person - Multi-viewpoint
+** Synopsis
+
+Val is tasked with retrieving Kevin who was kidnapped. Kevin is the son of a Timothy Wells, a politician. Timothy has asked (The order) [a law enforcement organization] to retrieve Kevin. Timothy is being blackmailed to do something that is treasonous against the state.
+
+** Setting: Joshua's fiction universe 01
 
 "Officer" - Rank
 Agent
@@ -25,7 +29,6 @@ Order of the Via Crystallum (Crystal Path or just "The Path")
 
 Valentina
 
-Synopsis: Val is tasked with retrieving [the son] who was kidnapped. [Person] is the son of a [Politician of some sort]. [The politician] has asked the [Finders] to retrieve [The son]. [The politician] is being blackmailed to do something.
 
 * Characters
 
