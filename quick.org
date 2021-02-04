@@ -32,15 +32,22 @@ Valentina
 
 * Characters
 
-** Val
+** [Traveler] Valentina
   Protagonist
   POV character
   Jason Bourne/The Mandalorian... but with magic. Wizard. Hyper competent.
+
+  TODO: What is her rank?
+  TODO: What is the rank structure of the order?
 
 ** Kevin Wells (The son - 12 years old)
   POV character
 
 ** Timothy Wells (The politician - 47 years old)
+
+Councilman
+
+I need to research what kind of "council" Mr. Wells here will be a part of.
   
 ** "librarian"
   "Yes, Agent"
@@ -161,8 +168,6 @@ School.
 Kevin decides to go to the library.
 
 As he is walking, he gets snatched by goons working for Nigel Cage.
-
-
 
 ** 02 Politican asks for help from the Crystal Path
 (pov: val)
